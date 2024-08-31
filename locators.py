@@ -1,0 +1,7 @@
+SEARCH_TRIGGER = "xpath://div[@class='site-header__search-trigger']//button"
+SEARCH_BAR_INPUT = "xpath://input[@class='search-bar__input']"
+SORT_BY_DATE = "xpath://option[contains(text(), 'Date')]"
+SHOW_MORE_BUTTON = "xpath://button[@data-testid='show-more-button']"
+COOKIE_ACCEPT_BUTTON = "xpath://button[@id='onetrust-accept-btn-handler']"
+CLOSE_AD_BUTTON = "xpath://button[@aria-label='Close Ad']"
+NEWS_ARTICLES = "xpath://div[@class='search-result__list']//article"
